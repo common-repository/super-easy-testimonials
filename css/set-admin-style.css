@@ -1,0 +1,33 @@
+    .showAll
+    {
+        width: 100%;
+        position: absolute;
+        z-index: 9999;
+        width: 70%;
+        border: 1px solid #ccc;
+        background: #ccc;
+        padding: 10px;
+    }
+    #create_testimonial
+    {
+        padding:20px;
+    }
+    #create_testimonial input[type='text']
+    {
+        border:1px solid #ccc;
+        width: 100%;
+    }
+    #create_testimonial textarea
+    {
+        width: 100%;
+    }
+    #create_testimonial input[type='submit']
+    {
+        margin-left:100px;  
+    }
+
+
+
+
+
+

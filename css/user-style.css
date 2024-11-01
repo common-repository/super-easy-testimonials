@@ -1,0 +1,10 @@
+    .showAll
+    {
+        width: 100%;
+        position: absolute;
+        z-index: 9999;
+        width: 70%;
+        border: 1px solid #ccc;
+        background: #ccc;
+        padding: 10px;
+    }
